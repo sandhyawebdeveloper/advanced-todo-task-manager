@@ -51,7 +51,7 @@ End-to-end design, development, UI/UX, and optimization
 
 ## 📬 Contact
 
-📧 Email: sandhya@example.com  
+📧 Email: sandhyawebdeveloper0@gmail.com  
 🔗 Portfolio: [protfoliosandhyaprajapati.netlify.app](https://protfoliosandhyaprajapati.netlify.app/)  
 🔗 LinkedIn: https://www.linkedin.com/in/sandhya-prajapati-1a40a125b/
 

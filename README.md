@@ -1,7 +1,7 @@
 # advanced-todo-task-manager
 Feature-rich To-Do Manager using HTML, CSS, JavaScript (no frameworks)
 # ✅ Advanced To-Do Task Manager
-![Uploading sandhya-todolist.netlify.app_.png…]()
+
 
 🎯 A fully responsive, advanced To-Do Task Manager web application built using **HTML**, **CSS**, and **Vanilla JavaScript** — without any external framework.
 
@@ -39,6 +39,8 @@ Feature-rich To-Do Manager using HTML, CSS, JavaScript (no frameworks)
 ---
 
 ## 📸 Screenshots
+![sandhya-todolist netlify app_](https://github.com/user-attachments/assets/7cbc1d3e-d7f3-4b81-b0ba-d0ddc19cb6e1)
+
 
 ### 📋 Desktop View  
 ![Home](screenshots/homepage.png)

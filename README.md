@@ -42,14 +42,6 @@ Feature-rich To-Do Manager using HTML, CSS, JavaScript (no frameworks)
 ![sandhya-todolist netlify app_](https://github.com/user-attachments/assets/7cbc1d3e-d7f3-4b81-b0ba-d0ddc19cb6e1)
 
 
-### 📋 Desktop View  
-![Home](screenshots/homepage.png)
-
-### 📱 Mobile View  
-![Mobile](screenshots/mobile-view.png)
-
----
-
 ## 👩‍💻 Role
 
 **Solo Developer**  
